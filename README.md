@@ -5,9 +5,9 @@ I'm Learning Spring MVC and I'm following one of the official tutorials http://d
 
 *Love to share my project source*
 
-- I'm useing Maven insted of Ant build. 
+- I'm using Maven insted of Ant build. 
 - I have ommited the junit testing (fornow).
-- I'm using tomcat7 maven plugin
+- I have used tomcat7 maven plugin (sticking to maven)
 
 to start the server use 
 
