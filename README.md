@@ -14,3 +14,6 @@ to start the server use
 ```
 mvn tomcat:run
 ```
+
+- Chapter 1 [source files](https://github.com/caztial/spring-mvc-tutorial-resources/tree/f0ac20ee1f041742b5fcfa5f9c0daba67187784c)
+- Chapter 2 [source files](https://github.com/caztial/spring-mvc-tutorial-resources/tree/b3bd3668acaad5fcf57af22aa20d0c2ee4648b35)
